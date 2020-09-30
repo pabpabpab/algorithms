@@ -188,7 +188,6 @@ class Spiral {
 }
 
 
-
 $spiral = new Spiral();
 $spiral->render(1, 1);
 $spiral->render(1, 2);
